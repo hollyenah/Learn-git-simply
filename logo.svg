@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Git learning logo">
+  <rect width="128" height="128" rx="28" fill="#c2410c"/>
+  <path d="M64 16 L112 35 L64 54 L16 35 Z" fill="#fff" stroke="#fff" stroke-width="6" stroke-linejoin="round"/>
+  <g fill="none" stroke="#fff" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 52 V62 C40 68 88 68 88 62 V52"/>
+    <path d="M50 84 V108"/>
+    <path d="M50 86 C50 98 78 94 78 104"/>
+  </g>
+  <g fill="#fff"><circle cx="50" cy="84" r="7"/><circle cx="50" cy="108" r="7"/><circle cx="78" cy="104" r="7"/></g>
+</svg>
